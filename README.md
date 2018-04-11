@@ -1,2 +1,2 @@
-# course1
-My first project. My first course work. My first work with graphics. My first project in C ++ ...
+# Course1 (Первая курсовая работа или как я работал с графикой)
+Моя первая курсовая работа. Здесь я впервые работаю с графикой на языке C++, используя библиотеку SFML (Simple Fast Multimedia Library). В этой работе я научился создавать игровое главное меню и небольшую систему диалогов. В общем получилось вполне достойно.
